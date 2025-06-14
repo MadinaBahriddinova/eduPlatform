@@ -1,0 +1,29 @@
+{"timestamp": "2025-06-14T23:53:41.679386", "type": "xlsx", "file_name": "exported_xlsx\\eduplatform_data.xlsx"}
+{"timestamp": "2025-06-14T23:53:41.679386", "type": "csv", "file_name": "exported_csv/users_20250614_235341.csv, exported_csv/assignments_20250614_235341.csv, exported_csv/grades_20250614_235341.csv, exported_csv/schedules_20250614_235341.csv"}
+{"timestamp": "2025-06-14T23:53:41.696080", "type": "sql", "file_name": "exported_sql\\eduplatform_data.sql"}
+{"timestamp": "2025-06-14T23:53:41.706513", "type": "xlsx", "file_name": "exported_xlsx\\eduplatform_data.xlsx"}
+{"timestamp": "2025-06-14T23:53:41.707513", "type": "csv", "file_name": "exported_csv/users_20250614_235341.csv, exported_csv/assignments_20250614_235341.csv, exported_csv/grades_20250614_235341.csv, exported_csv/schedules_20250614_235341.csv"}
+{"timestamp": "2025-06-14T23:53:41.707513", "type": "sql", "file_name": "exported_sql\\eduplatform_data.sql"}
+{"timestamp": "2025-06-14T23:53:41.711343", "type": "xlsx", "file_name": "exported_xlsx\\eduplatform_data.xlsx"}
+{"timestamp": "2025-06-14T23:53:41.711343", "type": "csv", "file_name": "exported_csv/users_20250614_235341.csv, exported_csv/assignments_20250614_235341.csv, exported_csv/grades_20250614_235341.csv, exported_csv/schedules_20250614_235341.csv"}
+{"timestamp": "2025-06-14T23:53:41.714930", "type": "sql", "file_name": "exported_sql\\eduplatform_data.sql"}
+{"timestamp": "2025-06-14T23:53:41.720633", "type": "xlsx", "file_name": "exported_xlsx\\eduplatform_data.xlsx"}
+{"timestamp": "2025-06-14T23:53:41.720633", "type": "csv", "file_name": "exported_csv/users_20250614_235341.csv, exported_csv/assignments_20250614_235341.csv, exported_csv/grades_20250614_235341.csv, exported_csv/schedules_20250614_235341.csv"}
+{"timestamp": "2025-06-14T23:53:41.726138", "type": "sql", "file_name": "exported_sql\\eduplatform_data.sql"}
+{"timestamp": "2025-06-14T23:53:41.736212", "type": "xlsx", "file_name": "exported_xlsx\\eduplatform_data.xlsx"}
+{"timestamp": "2025-06-14T23:53:41.736212", "type": "csv", "file_name": "exported_csv/users_20250614_235341.csv, exported_csv/assignments_20250614_235341.csv, exported_csv/grades_20250614_235341.csv, exported_csv/schedules_20250614_235341.csv"}
+{"timestamp": "2025-06-14T23:53:41.739286", "type": "sql", "file_name": "exported_sql\\eduplatform_data.sql"}
+{"timestamp": "2025-06-14T23:53:41.743224", "type": "xlsx", "file_name": "exported_xlsx\\eduplatform_data.xlsx"}
+{"timestamp": "2025-06-14T23:53:41.743224", "type": "csv", "file_name": "exported_csv/users_20250614_235341.csv, exported_csv/assignments_20250614_235341.csv, exported_csv/grades_20250614_235341.csv, exported_csv/schedules_20250614_235341.csv"}
+{"timestamp": "2025-06-14T23:53:41.746628", "type": "sql", "file_name": "exported_sql\\eduplatform_data.sql"}
+{"timestamp": "2025-06-14T23:53:41.753710", "type": "xlsx", "file_name": "exported_xlsx\\eduplatform_data.xlsx"}
+{"timestamp": "2025-06-14T23:53:41.753710", "type": "csv", "file_name": "exported_csv/users_20250614_235341.csv, exported_csv/assignments_20250614_235341.csv, exported_csv/grades_20250614_235341.csv, exported_csv/schedules_20250614_235341.csv"}
+{"timestamp": "2025-06-14T23:53:41.753710", "type": "sql", "file_name": "exported_sql\\eduplatform_data.sql"}
+{"timestamp": "2025-06-14T23:53:41.766192", "type": "xlsx", "file_name": "exported_xlsx\\eduplatform_data.xlsx"}
+{"timestamp": "2025-06-14T23:53:41.774231", "type": "sql", "file_name": "exported_sql\\eduplatform_data.sql"}
+{"timestamp": "2025-06-14T23:53:41.775259", "type": "xlsx", "file_name": "exported_xlsx\\eduplatform_data.xlsx"}
+{"timestamp": "2025-06-14T23:53:41.781195", "type": "sql", "file_name": "exported_sql\\eduplatform_data.sql"}
+{"timestamp": "2025-06-14T23:53:41.787226", "type": "xlsx", "file_name": "exported_xlsx\\eduplatform_data.xlsx"}
+{"timestamp": "2025-06-14T23:53:41.791821", "type": "sql", "file_name": "exported_sql\\eduplatform_data.sql"}
+{"timestamp": "2025-06-14T23:53:41.797262", "type": "xlsx", "file_name": "exported_xlsx\\eduplatform_data.xlsx"}
+{"timestamp": "2025-06-14T23:53:41.799424", "type": "sql", "file_name": "exported_sql\\eduplatform_data.sql"}

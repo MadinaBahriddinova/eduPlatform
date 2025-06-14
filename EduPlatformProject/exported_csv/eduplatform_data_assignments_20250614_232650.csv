@@ -1,0 +1,4 @@
+class_id,deadline,description,difficulty,grades,id,status,subject,submissions,teacher_id,title
+9-A,2025-06-21,Complete exercises 1-10,Medium,"{""2"": 2}",1,Graded,Math,"{""2"": {""content"": ""My completed algebra work."", ""timestamp"": ""2025-06-14T23:26:50.289488"", ""is_late"": false}}",4,Algebra Worksheet
+9-A,2025-06-13,Write an essay on World War II,Hard,{},2,Pending,History,{},4,Late Homework
+9-A,2025-06-13,This was due yesterday,Easy,{},3,Late Submission,History,"{""3"": {""content"": ""My very late history essay."", ""timestamp"": ""2025-06-14T23:26:50.409982"", ""is_late"": true}}",4,Late Homework
